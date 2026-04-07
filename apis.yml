@@ -11,16 +11,12 @@ created: '2024-12-03'
 modified: '2026-03-16'
 position: Consuming
 description: >-
-  The Office of Government Ethics (OGE) is an independent agency within the
-  federal government that oversees the behavior and ethics of executive branch
-  employees. The OGE provides guidance and advice on ethics laws and regulations
-  to government officials, conducts ethics training programs, and reviews
-  financial disclosure reports to ensure compliance with ethical standards. The
-  office also works to prevent conflicts of interest and promote transparency
-  and accountability in government operations. By upholding ethical standards
-  and promoting integrity in public service, the OGE plays a vital role in
-  maintaining the trust and confidence of the American people in their
-  government.
+  The Office of Government Ethics (OGE) is an independent agency within the federal
+  government that oversees the behavior and ethics of executive branch employees.
+  The OGE provides guidance and advice on ethics laws and regulations to government
+  officials, conducts ethics training programs, and reviews financial disclosure reports
+  to ensure compliance with ethical standards. The office also works to prevent conflicts
+  of interest and promote transparency and accountability in government operations.
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
