@@ -4,11 +4,13 @@ url: >-
 name: Office of Government Ethics
 tags:
   - Federal Government
-type: Contract
+  - Ethics
+  - Oversight
+type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2024-12-03'
-modified: '2026-03-16'
+modified: '2026-04-28'
 position: Consuming
 description: >-
   The Office of Government Ethics (OGE) is an independent agency within the federal
@@ -17,6 +19,10 @@ description: >-
   officials, conducts ethics training programs, and reviews financial disclosure reports
   to ensure compliance with ethical standards. The office also works to prevent conflicts
   of interest and promote transparency and accountability in government operations.
+apis: []
+common:
+  - type: Website
+    url: https://www.oge.gov/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
