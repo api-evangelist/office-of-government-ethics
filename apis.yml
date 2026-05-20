@@ -21,6 +21,8 @@ description: >-
   of interest and promote transparency and accountability in government operations.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/office-of-government-ethics
   - type: Website
     url: https://www.oge.gov/
 maintainers:
