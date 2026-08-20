@@ -3,6 +3,10 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/office-of-government-ethics/refs/heads/main/apis.yml
 name: Office of Government Ethics
 tags:
+  - Federal-Government
+  - Ethics
+  - Oversight
+tags_raw:
   - Federal Government
   - Ethics
   - Oversight
